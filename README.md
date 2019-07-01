@@ -1,5 +1,5 @@
 # GRaMM
-Here is the Matlab code of GRaMM strategy
+Here is the Matlab code of GRaMM strategy and some demo datasets.
 
 GRaMM is designed specifically for inter-correlation identification between metabolome and microbiome. 
 It can detect both linear and nonlinear correlations, both function and nonfunction relationships. 
